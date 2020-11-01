@@ -1,6 +1,6 @@
 public class FeatureACode {
 
     public static void main(String[] args) {
-        System.out.println("Awesome feature A is in progress");
+        System.out.println("Awesome featureA is in progress");
     }
 }
